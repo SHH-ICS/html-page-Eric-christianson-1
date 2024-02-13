@@ -1,23 +1,19 @@
-head{
+body{
     background-color:blueviolet;
 }
 
-head{
+body{
     text-decoration-color:white;
 }
 
-head{
+body{
     text-align:center
 }
 
-head{
+body{
     text-decoration: wavy;
 }
 
-head{
-    font-size: large;
-}
-
 body{
-    background-color: aliceblue;
+    font-size: large;
 }
